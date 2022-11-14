@@ -11,9 +11,10 @@
 *Низкая цена
 <style>
 h1 {
-  font-family: "Awesome", Arial, sans-serif; 
+  font-family: Arial; 
   color: red;
 }
+</style>
 <h1>Мы на столько крутые, что уже успели поработать со следующими 
 компаниями:
 
